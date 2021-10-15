@@ -1,0 +1,4 @@
+LOG_LEVEL=<inform your log level>
+PROJECT_ID=<inform your project id - generally gcp account name>
+SUBSCRIPTION_ID=<inform your subscription id - generally subscription name>
+GOOGLE_APPLICATION_CREDENTIALS="credential.json"
